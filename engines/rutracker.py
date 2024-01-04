@@ -86,8 +86,8 @@ class EngineError(Exception):
 
 @dataclass
 class Config:
-    username: str = "USERNAME"
-    password: str = "PASSWORD"
+    username: str = "aroxyson"
+    password: str = "mQzG3"
     torrent_date: bool = True
     proxy: bool = False
     # dynamic_proxy: bool = True
